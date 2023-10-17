@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>git 명령어 on fro9</title>
+    <link>https://fro9-dev.github.io/blog/tags/git-%EB%AA%85%EB%A0%B9%EC%96%B4/</link>
+    <description>Recent content in git 명령어 on fro9</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Sep 2023 22:20:18 +0900</lastBuildDate><atom:link href="https://fro9-dev.github.io/blog/tags/git-%EB%AA%85%EB%A0%B9%EC%96%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>자주쓰는 Git 명령어</title>
+      <link>https://fro9-dev.github.io/blog/posts/git-commands/</link>
+      <pubDate>Mon, 18 Sep 2023 22:20:18 +0900</pubDate>
+      
+      <guid>https://fro9-dev.github.io/blog/posts/git-commands/</guid>
+      <description>설정 이름, 이메일 전역으로 설정 git git config --global user.name &amp;lt;name&amp;gt;git git config --global user.email &amp;lt;email&amp;gt; 이름, 이메일 저장소별 설정 저장소에서 &amp;ndash;global 옵션 없이 설정하면 해당 저장소 선언한 이름, 이메일로 설정됨
+git git config user.name &amp;lt;name&amp;gt; git git config user.email &amp;lt;email&amp;gt; 브랜치 브랜치 생성 git branch &amp;lt;branch-name&amp;gt; 로컬 브랜치 삭제 ✔현재 작업중인 브랜치는 삭제 불가능
+-d는 --delete의 약자
+git branch -d &amp;lt;branch-name&amp;gt; 커밋 기록이 실수로 손실되는 걸 방지하기 위해 Git에서 병합되지 않은 변경사항이나 Push 되지 않은 커밋이 존재할 경우 -d 플래그로 브랜치를 삭제할 수 없음 그런 경우에는 -D 플래그를 사용하여 삭제</description>
+    </item>
+    
+  </channel>
+</rss>
